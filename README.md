@@ -19,3 +19,7 @@ Note: if you're on Windows, you have to set the variables before, like so:
     let mutableVariableNumbers = '1,2,1,1,1,2,1,3';
     let mutableVariableGroup = 8;
 ```
+Then, on your terminal/cmd:
+```bash
+  node app.js
+```
